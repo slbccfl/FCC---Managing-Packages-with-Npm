@@ -1,1 +1,1 @@
-# FCC---Managing-Packages-with-Npm
+# Backend Challenges boilerplate - package.json
